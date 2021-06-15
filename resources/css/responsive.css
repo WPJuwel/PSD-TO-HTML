@@ -1,0 +1,45 @@
+@media only screen and (max-width: 1024px){
+	
+	html{
+		font-size:57%;
+	}
+	.row{
+		margin: 15px;
+	
+	}
+
+	
+	.hero-text-box{
+		margin-top:15px;
+	}
+	
+	.main-nav{
+		display:none;
+	}
+	
+	
+	.Client-photo{
+		width:50%;
+		float:none;
+		text-align:center;
+	}
+	.client-review{
+		width:100%;
+		float:none;
+		text-align:center;
+	}
+	.client-review p{
+		font-size: 19px;
+	}
+
+	.hero-text-box{
+		width:100%;
+	}
+	
+}
+
+@media only screen and (max-width: 980px){
+	.row{
+		margin: 13px;
+	}
+}
